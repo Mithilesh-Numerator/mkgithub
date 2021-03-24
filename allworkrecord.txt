@@ -1,0 +1,474 @@
+Jay Maa
+JAY MAA
+2-1-2021
+
+
+PMTCS-11601-Implementation - Galderma Canada - Renewal Win Back - Galderma Canada - Promo - Contract Renewal Win Back - Q-58518
+PMTCS-11609-Decommission - Breville Canada L.P. (A-00451&A-03174&Q-49327&Q-49329) - Full Service Shutdown
+PMTCS-11596-Implementation - (Sanofi) Chattem, Inc. - Promo Intel Contract Renewal - January 2021 - Q-55456
+PMTCS-11589-Implementation - Fromageries Bel Canada Inc. - Contract Renewal - Updating to panels - February 2021 - Q-49428
+PMTCS-11574-Update PEP demo and production sites with current ret-mkts and categories
+
+
+2-2-2021
+PMTCS-11630-Add users to Foodworks Australia
+PMTCS-11629-Add retailer to Mattel Australia
+PMTCS-11614-Sides - Weekly East Ads - Numerator Promotions Intel Subscription Report
+PMTCS-11609-Decommission - Breville Canada L.P. (A-00451&A-03174&Q-49327&Q-49329) - Full Service Shutdown
+PMTCS-11601-Implementation - Galderma Canada - Renewal Win Back - Galderma Canada - Promo - Contract Renewal Win Back - Q-58518
+PMTCS-11589-Implementation - Fromageries Bel Canada Inc. - Contract Renewal - Updating to panels - February 2021 - Q-49428
+
+
+2/3/2021
+PMTCS-11596-Implementation - (Sanofi) Chattem, Inc. - Promo Intel Contract Renewal - January 2021 - Q-55456
+PMTCS-11614-Sides - Weekly East Ads - Numerator Promotions Intel Subscription Report
+PMTCS-11629-Add retailer to Mattel Australia
+
+
+edw
+ibotta
+Digital Rebate (Ibotta)
+
+A5597383B06842EA9490AAEE8CBF658C
+
+MerchandiseCategory and	MerchandiseSubCat
+
+2/4/2021
+PMTCS-11654-New User for Metcash Australia
+PMTCS-11652-Implementation - Oasis Brands (Solaris) - Contract Renewal - Move to Panels - January 2021 - Q-52523
+PMTCS-11649-mplementation - Idaho Potato Commission - PEP - Q-58224
+PMTCS-11648-Unable to login
+PMTCS-11574-Update PEP demo and production sites with current ret-mkts and categories
+
+
+2/5/2021
+
+PMTCS-11673-Implementation - A Lassonde Inc. - Contract Renewal - Updating to Panel - February 2021 - Q-49335
+PMTCS-11672-Implementation - MolsonCoors (MillerCoors) - Contract Renewal Adding Digital - January 2021 - Promo - Q58563
+PMTCS-11669-Implementation - National Pork Board - Promo Amendment - Q-60179
+PMTCS-11652-Implementation - Oasis Brands (Solaris) - Contract Renewal - Move to Panels - January 2021 - Q-52523
+PMTCS-11649-mplementation - Idaho Potato Commission - PEP - Q-58224
+PMTCS-11574-Update PEP demo and production sites with current ret-mkts and categories
+
+
+idaPEP--17
+oasPEP--17
+
+Retailer	Market
+El Ranchito Super Mercado	Chicago, IL
+Walgreens (PR)	San Juan, PR
+
+4780
+
+2/6/2021
+
+PMTCS-11659-Archive unused databases on Target site
+
+
+
+dtarPep	Digital Ad Archive (PEP)	- remove,	no user activity
+
+tarADL50	Space Allocation Data - remove, no user activity
+
+FRAd	Image Only FR DAA	- not available to users; check if it is needed for FlashReport maybe? - if it is not used in anything please archive it.
+
+I have also deleted all user-specific database access, so all users will see all databases available on client level.
+
+
+2/8/2021
+PMTCS-11682-Add user to E&S Profile in 8.0
+PMTCS-11673-Implementation - A Lassonde Inc. - Contract Renewal - Updating to Panel - February 2021 - Q-49335
+PMTCS-11672-Implementation - MolsonCoors (MillerCoors) - Contract Renewal Adding Digital - January 2021 - Promo - Q58563
+PMTCS-11669-Implementation - National Pork Board - Promo Amendment - Q-60179
+PMTCS-11652-Implementation - Oasis Brands (Solaris) - Contract Renewal - Move to Panels - January 2021 - Q-52523
+PMTCS-11649-mplementation - Idaho Potato Commission - PEP - Q-58224
+PMTCS-11574-Update PEP demo and production sites with current ret-mkts and categories
+Flash report checking.
+Published ads checking.
+
+2/9/2021
+PMTCS-11693-Decommission - Johnsonville, LLC Canada (Q-49392&A-07462) - Full Service Shutdown
+PMTCS-11689-Decommission - Pilot Corporation of America (A-00284&Q-49522) - Full Service Shutdown
+PMTCS-11695-Cannot Run Promo Search
+Published images checking.
+
+Kyra.Miller@us.nestle.com
+A5597383B06842EA9490AAEE8CBF658C
+
+
+ActivePresenter
+Github
+
+I want to intall ActivePresenter app.
+
+ActivePresenter is a free screen recorder and screencast video editor with all the necessary editing tools 
+for recording screen & creating engaging screencast videos on Windows and macOS.
+
+With ActivePresenter, making a professional screencast or a training video.
+this will help us to show client users FV function is working or not.
+
+2/10/2021
+
+PMTCS-11704-Decommission - KIND Management, Inc. (A-07760&A-07488&A-07489&Q-49513&Q-51094) - Full Service Shutdown
+PMTCS-11636-Decommission - Werner Ladders (Q-50038&A-07572) - Full Service Shutdown
+PMTCS-11698-Ad Price in Summary Reports 
+Medweek FR checking.
+scatters cbs
+Numerator PEP complete (all ret-mkts)
+acfvd-03
+
+2/11/2021
+PMTCS-11704-Decommission - KIND Management, Inc. (A-07760&A-07488&A-07489&Q-49513&Q-51094) - Full Service Shutdown
+PMTCS-11636-Decommission - Werner Ladders (Q-50038&A-07572) - Full Service Shutdown
+PMTCS-11698-Ad Price in Summary Reports 
+PMTCS-11720-Implementation - Henkel Canada - Contract Renewal - Moving to Panels - January 2021 - Q-48449
+Published ads checking
+
+
+2/14/2021
+
+Hi All,
+
+Please find below the Flash Report Checking Results for Sunday Clients: E & J Gallo(108), Roundy's(118), Kohl's(123), Sargento Cheese(126), Pella(130), World Kitchen(135), WA Fruit(137)
+
+Also checked the FR Public Sites Coverage List, Ads and Links are proper on the FR Public site
+ 
+Issues/Observation :
+Kohl's(123): Ads Amazon.Com is displayed on the website but not mentioned in the email body.
+Roundy's: the client is archived, hence flash report is not received
+Pella(130): Ads Newegg.com is displayed on the website but not mentioned in the email body.
+World Kitchen(135): Newegg.com,Amazon.Com are displayed on the website but not mentioned in the email body.
+WA Fruit(137): Flash report not received.  
+
+Thanks,
+
+2/15/2021
+PMTCS-11735-New User for Officeworks Australia
+PMTCS-11723-Add Offer Type to Summary Report
+PMTCS-11720-Implementation - Henkel Canada - Contract Renewal - Moving to Panels - January 2021 - Q-48449
+Monday FR check
+Published ads images check.
+
+
+Category
+Cleansers - Floor Polish
+Fabric Dye
+Personal Cleansing
+
+
+Account	Market
+Pharma Plus	Ottawa, Ontario
+Pharma Plus	Toronto, Ontario
+Pharma Plus	Winnipeg, Manitoba
+
+
+
+
+
+Client access=1
+
+Select IsActiveClient,* from Subscription..ClientProfile 
+Where ClientID= 79
+
+
+Update Subscription..ClientProfile 
+Set IsActiveClient = 1
+Where ClientID= 79
+
+
+select * from   UserHomePageLinkAccess where CategoryCodeID in (9423)
+for Below retailer use FSI media.
+
+2/16/2021
+PMTCS-11743-Miele Australia- New User Set Up
+PMTCS-11737-Missing Tobacco Categories
+PMTCS-11659-Archive unused databases on Target site
+PMTCS-11574-Update PEP demo and production sites with current ret-mkts and categories
+published images checking.
+
+2/17/2021
+PMTCS-11747-Category Summary Report Times Out
+PMTCS-11574-Update PEP demo and production sites with current ret-mkts and categories--going on
+published ads checking
+Canada FR checking.
+
+2/19/2021
+PMTCS-11762-Implementation - Sunkist Growers, Inc. - Moving to Panels - Amendment for contract #00022489 - Q-60540
+PMTCS-11764-Implementation - PETCO Animal Supplies, Inc. - New - Petco Promo Intel - Q-57210
+PMTCS-11769-Implementation - Domex Superfresh Growers - New - Domex Promo - Q-60590
+
+
+sunPeP-16
+
+
+2/21/2021
+
+2/22/2021
+
+PMTCS-11762-Implementation - Sunkist Growers, Inc. - Moving to Panels - Amendment for contract #00022489 - Q-60540
+PMTCS-11764-Implementation - PETCO Animal Supplies, Inc. - New - Petco Promo Intel - Q-57210
+PMTCS-11769-Implementation - Domex Superfresh Growers - New - Domex Promo - Q-60590
+PMTCS-11782-Implementation - Church & Dwight Canada Corp. - New - Canadian Promo - Q-60281
+PMTCS-11790-New users for HP Australia
+PMTCS-11791-Add user to Hanes Australia
+Monday FR checking
+Published ads checking.
+
+
+
+DOMPEP
+petcoD
+domD
+
+
+2/23/2021
+
+PMTCS-11805-Add user to E&S Profile in 8.0
+PMTCS-11800-Implementation - L'Oréal USA - Contract Renewal With Changes - March 2021 - Contract #00019314 - Q-58205
+PMTCS-11797-Decommission - Young's Holdings Inc. (A-07798&A-07797&Q-51307&Q-51305) - Full Service Shutdown
+PMTCS-11769-Implementation - Domex Superfresh Growers - New - Domex Promo - Q-60590
+Published ads checking.
+
+
+DOMPEP
+
+Retailer	Market
+Amazon.com	Seattle, WA
+FreshDirect	New York, NY
+Kmart	Cleveland, OH
+Peapod.com (Stop & Shop MA)	Boston, MA
+Peapod.com (Stop & Shop NY)	New York, NY
+Whole Foods Market	Seattle, WA
+
+
+
+2/24/2021
+
+PMTCS-11813-Implementation - Olymel Canada - Contract Renewal - March 2021 - Moving to Panels - Contract #00018733 - Q-49212
+PMTCS-11805-Add user to E&S Profile in 8.0
+PMTCS-11800-Implementation - L'Oréal USA - Contract Renewal With Changes - March 2021 - Contract #00019314 - Q-58205
+PMTCS-11797-Decommission - Young's Holdings Inc. (A-07798&A-07797&Q-51307&Q-51305) - Full Service Shutdown
+PMTCS-11769-Implementation - Domex Superfresh Growers - New - Domex Promo - Q-60590
+Published ads checking.
+
+2/25/2021
+PMTCS-11796-
+PMTCS-11823-Can we add display image option?
+PMTCS-11822-Cannot view images in ad sharing & exclusivity module
+PMTCS-11796-Harman - Decommission
+PMTCS-11821-Implementation - Mizkan Americas, Inc. - Contract Renewal - March 2021 - Contract #00019102 - Q-50203
+Published ads checking.
+
+mizac-16
+
+Retailer	Market
+Amazon.com	Seattle, WA
+FreshDirect	New York, NY
+Kmart	Cleveland, OH
+Peapod.com (Stop & Shop MA)	Boston, MA
+Peapod.com (Stop & Shop NY)	New York, NY
+Thrifty White Drug Stores	Minneapolis, MN
+Whole Foods Market	Seattle, WA
+
+
+
+olyca50--04
+
+
+2/26/2021
+PMTCS-11800-Implementation - L'Oréal USA - Contract Renewal With Changes - March 2021 - Contract #00019314 - Q-58205
+
+A5597383B06842EA9490AAEE8CBF658C
+
+
+
+3/1/2021
+PMTCS-11845 Unlink Summary Attribute
+PMTCS-11854-Decommission - Schweppes - Australia
+PMTCS-11800-Implementation - L'Oréal USA - Contract Renewal With Changes - March 2021 - Contract #00019314 - Q-58205
+Monday FR
+Published ads checking.
+
+1051
+
+
+3/2/2021
+PMTCS-11859-Diageo Spirits: remove old database
+PMTCS-11860-Decommission - Patron Spirits Company (Q-50205&A-00228) - Full Service Shutdown
+PMTCS-11861-Decommission - GlaxoSmithKline Vaccines (A-07786&A-07785&Q-57872) - Full Service Shutdown
+PMTCS-11862-Decommission - Spectrum Brands Canada (Q-54288&A-00483) - Full Service Shutdown
+
+
+
+Spectrum Brands Canada, Inc (1642)
+
+557,1443,1146
+
+Display image in excel comments box.
+
+AllowProductImageInExcel
+
+accessable
+accessible
+3/3/2021
+
+PMTCS-11859-Diageo Spirits: remove old database
+PMTCS-11860-Decommission - Patron Spirits Company (Q-50205&A-00228) - Full Service Shutdown
+PMTCS-11861-Decommission - GlaxoSmithKline Vaccines (A-07786&A-07785&Q-57872) - Full Service Shutdown
+PMTCS-11862-Decommission - Spectrum Brands Canada (Q-54288&A-00483) - Full Service Shutdown
+Midweek FR checking.
+Published ads checking.
+
+
+3/4/2021
+PMTCS-11894-Configure Segmentation
+PMTCS-11885-Can we add event in more options?
+PMTCS-11889-Retailer Strategy - Add Private Label
+Published ads checking.
+
+
+
+
+"npbPeP"
+
+fpcan
+
+Pratik-3-4-21
+
+
+
+3/7/2021
+
+Hi All,
+
+All charts for Circular Exported and request for PPT have been set.
+
+
+Thanks, 
+
+
+
+Hi All,
+
+Please find below the Flash Report Checking Results for Sunday Clients: E & J Gallo(108), Roundy's(118), Kohl's(123), Sargento Cheese(126), Pella(130), World Kitchen(135), WA Fruit(137)
+
+Also checked the FR Public Sites Coverage List, Ads and Links are proper on the FR Public site
+ 
+Issues/Observation :
+Kohl's(123): Ads Amazon.Com is displayed on the website but not mentioned in the email body.
+Roundy's: the client is archived, hence flash report is not received
+Pella(130): Ads Newegg.com is displayed on the website but not mentioned in the email body.
+World Kitchen(135): Newegg.com,Amazon.Com are displayed on the website but not mentioned in the email body.
+WA Fruit(137): Flash report not received.  
+
+Thanks,
+
+3/8/2021
+
+PMTCS-11912-Add Brand Group - Southeastern Grocers
+PMTCS-11922- Subscription Report
+Monday FR checking.
+Published ads checking
+
+3/9/2018
+PMTCS-11939-Feature Vision Access
+PMTCS-11936-Add Brand Group
+
+
+3/10/2021
+
+PMTCS-11939-Feature Vision Access
+PMTCS-11936-Add Brand Group
+Midweek FR check.
+Published ads check.
+PMTCS-11947-Multiple Retailers - Email Promos Not Exporting to 8.0 Site
+PMTCS-11907-Wegmans - Trenton, NJ - Ads not Exporting to the 8.0 site
+
+3/11/2021
+PMTCS-11958-Implementation - Old Dutch Foods Limited Canada - Contract Renewal - Moving to Panel - March 2021 - Contract #00019247 - Q-50555
+PMTCS-11963-New User for Miele Australia
+Published ads checking.
+PMTCS-11947-Multiple Retailers - Email Promos Not Exporting to 8.0 Site
+PMTCS-11907-Wegmans - Trenton, NJ - Ads not Exporting to the 8.0 site
+
+
+
+3/12/2021
+PMTCS-11958-Implementation - Old Dutch Foods Limited Canada - Contract Renewal - Moving to Panel - March 2021 - Contract #00019247 - Q-50555
+PMTCS-11947-Multiple Retailers - Email Promos Not Exporting to 8.0 Site
+PMTCS-11907-Wegmans - Trenton, NJ - Ads not Exporting to the 8.0 site
+Published ads checking.
+
+Account	Market
+Pharma Plus	Toronto, Ontario
+
+
+
+3/15/2021
+PMTCS-11965-Decommission - Utz Quality Foods - A-00291 & A-10031
+Monday FR
+Publish ads checking.
+
+cccacTest
+46-The Coca-Cola Company
+
+
+
+3/16/2021
+
+PMTCS-11984 Alcon Canada Inc.-Service Suspension
+
+3/17/2021
+PMTCS-12002-Electrolux Home Products Australia- Retrieve Profile from Archive
+PMTCS-11994-Decommission - Saputo Cheese USA (Q-59587&A-09189) - Full Service Shutdown
+PMTCS-11984 Alcon Canada Inc.-Service Suspension
+Midweek FR checking.
+Published ads images checking.
+
+
+3/18/2021
+PMTCS-11827-Best Buy Canada Client Coverage Update
+Published ads images checking.
+
+3/22/2021
+PMTCS-12016-excel export with imbedded image
+Monday FR checking
+Published ads images checking.   
+
+
+http://webentry.evanston.local/WebEntry/ControlPanel.aspx
+
+3/23/2021
+PMTCS-12032-Users changes to Nintendo Australia
+PMTCS-12030-Add user to Hanes Australia
+Published ads images checking.
+
+3/24/2021
+
+PMTCS-12036-BAP 2021 Update
+PMTCS-12002-Electrolux Home Products Australia- Retrieve Profile from Archive
+Midweek FR checking.
+Published ads images checking.
+
+
+
+
+9122038201
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
